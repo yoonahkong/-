@@ -8,4 +8,5 @@ short description of the project
 
 ## contributors
 연세대학교 테크포임팩트 옥천신문
-한줄추가
+
+대표님과 만나기
